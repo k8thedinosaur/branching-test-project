@@ -1,11 +1,9 @@
 h1 {
   color: rgb(94, 63, 17);
-  text-align: center;
 }
 
 h2 {
   font-style: italic;
-  text-align: center;
   color: rgb(182, 121, 31);
 }
 
@@ -15,4 +13,6 @@ p {
 
 body {
   background-color: rgb(231, 201, 156);
+  font-family: sans-serif;
+ text-align: center; 
 }
